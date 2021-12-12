@@ -239,11 +239,15 @@ int main () {
 
 
 Output:
+
+
 ```
 Value of var :3000
 Value of ptr :0xbff64494
 Value of val :3000
 ```
+
+
 - **Logical AND** \
 True only if all the operands are true.\
 Syntax:
