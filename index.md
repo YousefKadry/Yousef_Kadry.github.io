@@ -176,6 +176,9 @@ Syntax:
 const Class_Name Object_name;
 ```
 
+----------------------------------------------
+
+
 # Usage of & symbol in c++
 The & symbol is used as an operator in C++. It is used in 3 different places, one as a bitwise and operator,
 one as a pointer address of operator and one as logical AND.
