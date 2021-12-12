@@ -254,7 +254,11 @@ Value of val :3000
 
 - **Logical AND** \
 True only if all the operands are true.\
+
 Syntax:
+
+
+
 
 
 ```
