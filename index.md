@@ -73,6 +73,7 @@ Output:
 - **When the const pointer variable point to the value** \
 Below is the C++ program to implement the above concept:
 
+
 ```c++
 #include <iostream>
 using namespace std;
@@ -124,6 +125,8 @@ Output:
 ```
 - **When const pointer pointing to a const variable** \
 Below is the C++ program to implement the above concept:
+
+
 ```c++
 #include <iostream>
 using namespace std;
@@ -156,6 +159,8 @@ int main()
     return 0;
 }
 ```
+
+
 Output:
 ```
 9 and A
