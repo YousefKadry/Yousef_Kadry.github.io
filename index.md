@@ -211,6 +211,8 @@ including an object, structure or again pointer itself.\
 The address of Operator (&), and it is the complement of *. It is a unary operator that returns the address
 of the variable(r-value) specified by its operand.\
 Example:
+
+
 ```c++
 #include <iostream>
 using namespace std;
@@ -234,6 +236,8 @@ int main () {
    return 0;
 }
 ```
+
+
 Output:
 ```
 Value of var :3000
